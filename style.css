@@ -1,0 +1,99 @@
+body {
+
+    font-family: "Montserrat", sans-serif;
+    background-color: white;
+}
+
+.main {
+
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 4px;
+
+}
+
+.heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.pic1 {
+    width: 100%;
+    height: 390px;
+    background-color: rgb(14, 14, 143);
+
+}
+
+.Start {
+    color: white;
+    margin-left: 20px;
+    padding-top: 30px;
+
+}
+
+.a2 {
+    color: white;
+    margin-left: 20px;
+}
+
+.img1 {
+    height: 200px;
+    /* float: left; */
+    margin-left: 500px;
+    padding-left: 0px;
+    padding-top: 0.1px;
+    margin-top: 0.1px;
+}
+
+.divp {
+    width: 35%;
+    height: 45px;
+    border: 2px solid white;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+
+.pp {
+    color: white;
+    align-items: center;
+    padding-left: 27px;
+}
+
+p {
+    letter-spacing: 3px;
+}
+
+b {
+    font-size: 30px;
+}
+
+.last {
+    margin-left: 24px;
+}
+
+.lastbox {
+    width: 100%;
+    height: 190px;
+    margin-left: 0px;
+    margin-right: 15px;
+    background-color: rgb(57deg, 146, 17, 146, 25%);
+    border-radius: 5px;
+}
+
+.container {
+    margin-left: 5px;
+
+}
+
+.images {
+    margin-right: auto;
+
+}
